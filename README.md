@@ -1,6 +1,7 @@
 # fintech-management-system-karun
 
-Work in Progress!
+**Work in Progress!**
+
 The codebase, documentation, and full project assets for Karun will be uploaded to this repository shortly.
 
 <img width="1903" height="909" alt="Ekran görüntüsü 2026-08-12 220243" src="https://github.com/user-attachments/assets/4cec3681-5413-4cce-a9aa-6c678da60e1b" />
