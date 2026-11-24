@@ -132,8 +132,7 @@ REDIS_URL=redis://localhost:6379/0
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/marketboard.git
-cd marketboard
+git clone https://github.com/Berkayselcukogluu/karun-finance.git
 ```
 
 ### 2. Set Up the Python Backend
