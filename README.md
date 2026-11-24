@@ -1,4 +1,4 @@
-# MarketBoard — US Stock Market Analytics & Portfolio Dashboard
+# MarketBoard Stock Market Analytics & Portfolio Dashboard
 
 MarketBoard is a full-stack financial dashboard for tracking US equities (NYSE & NASDAQ), managing watchlists and portfolio holdings, analyzing company fundamentals and valuation multiples, visualizing revenue segmentation, and receiving real-time price and volume alerts.
 
