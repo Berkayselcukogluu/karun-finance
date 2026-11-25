@@ -129,7 +129,7 @@ REDIS_URL=redis://localhost:6379/0
 
 ## Setup
 
-### 2. Set Up the Python Backend
+### 1. Set Up the Python Backend
 
 Create a virtual environment and install the required Python packages:
 
@@ -145,7 +145,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 3. Configure PostgreSQL Database
+### 2. Configure PostgreSQL Database
 
 Make sure PostgreSQL is running and create the database specified in `.env` (default: `fintechrssdb`):
 
@@ -161,7 +161,7 @@ You can also initialize or verify the database schema manually at any time by ru
 python scripts/migrate_db.py
 ```
 
-### 4. Build the Frontend
+### 3. Build the Frontend
 
 Install Node dependencies and build the production bundle (served automatically by FastAPI from `FRONTEND/dist`):
 
