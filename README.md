@@ -89,11 +89,13 @@ cp .env.example .env
 # =============================================================================
 FINNHUB_API_KEY=your_finnhub_api_key_here
 FMP_API_KEY=your_fmp_api_key_here
+# (The AI model could work more seamlessly I haven't done much development in that area.)
 OPENAI_API_KEY=your_openai_api_key_here
-OPENAI_MODEL=gpt-4o-mini
+OPENAI_MODEL=your_openai_model
 
 # =============================================================================
 # 2. PostgreSQL Database Configuration
+# (I used it as it was installed in Ubuntu; it also needs to be configured for synchronization with Redis)
 # =============================================================================
 DB_TYPE=postgresql
 DB_HOST=localhost
