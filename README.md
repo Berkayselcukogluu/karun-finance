@@ -10,15 +10,15 @@ Karun is currently an evolving project designed primarily for local use. It is p
 
 ## Features
 
-- **Real-Time US Market Quotes & Market Status**: Live stock quotes, daily change tracking, pre-market/post-market/holiday status indicators, and a Magnificent 7 (MAG7) overview ticker.
-- **Portfolio Holdings & Watchlist Management**: Track equity positions with average cost, quantity, market value, unrealized profit/loss (P&L), portfolio allocation, and cash balance.
-- **Interactive Stock Charts**: Heikin-Ashi candlestick, line, and area charts with volume histograms across multiple timeframes (`1M`, `3M`, `6M`, `1Y`, `2Y`, `Max`) powered by TradingView Lightweight Charts.
+- **Real-time US market quotes and market status: Live stock quotes, daily change tracking and pre-, post- and holiday status indicators, as well as a 'Magnificent 7' (MAG7) overview ticker.
+- **Portfolio Holdings & Watchlist Management**: Track your equity positions alongside their average cost, quantity, market value, unrealised profit/loss (P&L), portfolio allocation and cash balance.
+- **Interactive Stock Charts**: Heikin-Ashi candlestick, line and area charts, with volume histograms across multiple timeframes (`1M`, `3M`, `6M`, `1Y`, `2Y` and `Max`), powered by TradingView Lightweight Charts.
 - **Valuation Multiples Comparison**: Compare a company's P/E, P/B, EV/Sales, EV/EBITDA, PEG, and EPS against sector and industry averages.
 - **Financial Health Radar**: 5-axis normalized financial health scoring (Efficiency, Liquidity, Leverage, Profitability, and Growth) built from fundamental ratios.
 - **MAG7 Revenue Segmentation (Sankey Diagrams)**: Interactive product and geographic revenue breakdown for Apple, Microsoft, Alphabet, Amazon, NVIDIA, Meta, and Tesla.
 - **Real-Time Price & Volume Alerts**: Redis-backed alert engine with WebSocket push notifications for price targets (`PRICE_ABOVE`, `PRICE_BELOW`), percentage moves (`PERCENT_UP`, `PERCENT_DOWN`), and volume spikes (`VOLUME_SPIKE`).
-- **AI Financial Assistant**: Context-aware market assistant powered by OpenAI that automatically injects live price, valuation, and portfolio data into the conversation.
-- **Company News & Personal Notes**: Aggregated company news feed with sentiment indicators and a quick-access personal notes drawer.
+- **Company News & Personal Notes**: An aggregated company news feed with sentiment indicators and quick access to a personal notes drawer.
+- **AI Financial Assistant**: Context-aware market assistant powered by OpenAI that automatically injects live price, valuation, and portfolio data into the conversation. It's not quite finished yet, so it needs to be revised.
 
 ---
 
