@@ -82,6 +82,13 @@ Copy `.env.example` to `.env` in the project root (or edit the existing `.env` f
 ```bash
 cp .env.example .env
 ```
+## Installation
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Berkayselcukogluu/karun-finance.git
+```
 
 ```ini
 # =============================================================================
@@ -119,13 +126,7 @@ REDIS_URL=redis://localhost:6379/0
 
 ---
 
-## Installation & Setup
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/Berkayselcukogluu/karun-finance.git
-```
+## Setup
 
 ### 2. Set Up the Python Backend
 
