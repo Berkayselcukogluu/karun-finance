@@ -77,7 +77,7 @@ MarketBoard is a full-stack financial dashboard for tracking US equities (NYSE &
 
 ## Installation
 
-### 1. Clone the Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/Berkayselcukogluu/karun-finance.git
