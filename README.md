@@ -1,4 +1,4 @@
-# Karun Finance (MarketBoard) Stock Market Analytics & Portfolio Dashboard
+# Karun Finance (MarketBoard) Stock Analytics & Portfolio Dashboard
 
 Karun is a local, full-stack financial dashboard inspired by the figure of Karun, who is associated with immense wealth. Designed to help users better understand and analyse their stock portfolios, Karun provides tools for tracking US equities listed on the NYSE and NASDAQ, managing watchlists and portfolio holdings, exploring company fundamentals and valuation metrics, and analysing revenue segments.
 
