@@ -75,19 +75,20 @@ MarketBoard is a full-stack financial dashboard for tracking US equities (NYSE &
 
 ---
 
-## Environment Variables & API Keys Guide (`.env`)
-
-Copy `.env.example` to `.env` in the project root (or edit the existing `.env` file) and fill in your credentials:
-
-```bash
-cp .env.example .env
-```
 ## Installation
 
 ### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/Berkayselcukogluu/karun-finance.git
+```
+
+## Environment Variables & API Keys Guide (`.env`)
+
+Copy `.env.example` to `.env` in the project root (or edit the existing `.env` file) and fill in your credentials:
+
+```bash
+cp .env.example .env
 ```
 
 ```ini
