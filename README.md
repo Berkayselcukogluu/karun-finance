@@ -1,6 +1,10 @@
 # Karun Finance (MarketBoard) Stock Market Analytics & Portfolio Dashboard
 
-MarketBoard is a full-stack financial dashboard for tracking US equities (NYSE & NASDAQ), managing watchlists and portfolio holdings, analyzing company fundamentals and valuation multiples, visualizing revenue segmentation, and receiving real-time price and volume alerts.
+Karun is a local, full-stack financial dashboard inspired by the figure of Karun, who is associated with immense wealth. Designed to help users better understand and analyse their stock portfolios, Karun provides tools for tracking US equities listed on the NYSE and NASDAQ, managing watchlists and portfolio holdings, exploring company fundamentals and valuation metrics, and analysing revenue segments.
+
+The application is primarily built with TypeScript and Python, using PostgreSQL for data storage and Redis for caching and supporting application services.
+
+Karun is currently an evolving project designed primarily for local use. It is published on GitHub as an open-source project for learning, experimentation and further development. Some features may be incomplete, and the current version is not intended for commercial use.
 
 ---
 
